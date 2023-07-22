@@ -6,7 +6,7 @@
 - 📡 I’m looking to get a intership soon
 - ☀️ I like travelling, yoga, meditation and nature!
 
-## Github Status
+<!-- ## Github Status
 
 
   <a href="https://github.com/programmerarantes">
@@ -15,7 +15,7 @@
   
   <a href="https://github.com/programmerarantes?tab=repositories">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmerarantes&layout=compact&langs_count=7&theme=dark&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&hide_border=true"/>
-</a>
+</a> -->
 
 ### Skills
 
