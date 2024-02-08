@@ -2,7 +2,7 @@
 
 - 🌍 I'm living in Florianópolis - SC
 - 🌐 I’m currently studying Systems Analysis
-- 🌱 I’m currently learning Front-end tecnologies
+- 🌱 I’m currently learning Web tecnologies
 - 📡 I’m looking to get a intership soon
 - ☀️ I like travelling, yoga, meditation and nature!
 
