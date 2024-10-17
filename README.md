@@ -4,7 +4,7 @@
 - 🌐 I’m currently studying Systems Analysis
 - 🌱 I’m currently learning Web tecnologies
 - 📡 I’m looking to get a intership soon
-- ☀️ I like travelling, yoga, meditation and nature!
+- ☀️ I like travelling, nature, skateboarding and music!
 
 <!-- ## Github Status
 
