@@ -1,10 +1,8 @@
 ### Hi there, my name is Matheus 👋
 
 - 🌍 I'm living in Florianópolis - SC
-- 🌐 I’m currently studying Systems Analysis
-- 🌱 I’m currently learning Web tecnologies
-- 📡 I’m looking to get a intership soon
-- ☀️ I like travelling, nature, skateboarding and music!
+- 🌐 I’m currently intership at GEOMAIS TECNOLOGIA
+
 
 <!-- ## Github Status
 
